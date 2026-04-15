@@ -1,8 +1,8 @@
-# Online C Programlama Dili Kursu - 16 Nisan 2026
+# Online C Programlama Dili Kursu - 18 Haziran 2026
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __16 Nisan 2026__ tarihinde başlayacaktır.
++ Kurs __18 Haziran 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __240__ saattir. 
